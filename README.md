@@ -8,7 +8,9 @@ Sublime Text 3 only.
 Note on the below:
 
 GOPATH - This is the GOPATH for your project. No trailing slashes.
+
 ROOT - The root is where your main binary you're building is compiled from.
+
 GOBIN - Bin directory containing go binary
 
 
@@ -26,7 +28,9 @@ Install
 =======
 
 1. Download the python script
+
 2. Copy it into the Packages directory, Sublime Text -> Preferences -> Browse Packages -> GoSublime
+
 3. Setup a Project with the following in:
 
 	{
